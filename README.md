@@ -1,34 +1,46 @@
-# 🧠 GumbyEnder
+# GumbyEnder
 
-Builder of **game backends, admin tools, AI/IoT/ML systems**. Fractional CTO for 5 startups & a public company. Practical, ship-focused, always trying something new.
+Builder of **game backends, admin tools, AI/IoT/ML systems**. Fractional CTO/CDO for startups and a public company. Long-tenure background in big data, OTT, IoT, and AI. Practical, ship-focused, always trying something new.
 
-**I work on:** Veanox · Hermes Agent Ecosystem · Zeeva · SKYX
-
----
-
-## 📊 GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gumbyender&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumbyender&layout=compact&theme=transparent&hide_border=true)
+- B.S. Computer Science, University of Central Florida
+- Eagle Scout, former U.S. Air Force
 
 ---
 
-## 🧰 Tech Stack
+## Experience
 
-**Languages:** TypeScript, Python, Rust, C, C++, C#, Lua, PowerShell  
+- **Director - Special Projects**, SKYX Platforms
+- **VP Systems Operations**, Atentiv
+- **CTO**, Data Driven Care
+- **CTO Consultant**, Connected Life Solutions
+- **Founder/CEO**, Knetik
+- **Chief Digital Transformation Officer**, Cima Group
+
+---
+
+## Where I focus
+
+- Fractional CTO/CDO, product/platform development, AI/IoT/ML systems, game tools/backends
+- **Domains:** Veanox · Hermes Agent Ecosystem · Zeeva · SKYX · By Night Studios
+- **OS:** Ubuntu
+- **Terminal:** Ghostty, heavily modified terminal workflow, Hermes Agent, herdr
+
+---
+
+## Tech
+
+**Languages:** TypeScript, Python, Rust, Lua, PowerShell, C, C++, C#  
 **Frontend:** React, Next.js, React Native, Vite, Tailwind, Expo  
 **Backend:** Supabase, FastAPI, Node, Deno, PostgreSQL  
 **Infra:** Linux, Docker, systemd, s6-overlay, Cloudflare, Vercel, Railway  
 **AI/Agents:** Hermes, OpenAI/xAI/Anthropic APIs, RAG, Gradio, local LLM rigs  
 **Data:** SQLite, Parquet, NDJSON, Arrow, Pandas  
 **Tools:** git, gh CLI, Obsidian, tmux, neovim, Ollama, llama.cpp, Ghostty, Hermes Agent, herdr  
-**OS:** Ubuntu  
 **Game Engines:** Godot, Unity, Unreal
 
 ---
 
-## 🚀 Featured Projects
+## Selected work
 
 ### [hermes-kanban](https://github.com/gumbyender/hermes-kanban)
 > Obsidian plugin + Hermes skill for autonomous Kanban execution inside your vault.
@@ -42,17 +54,32 @@ Builder of **game backends, admin tools, AI/IoT/ML systems**. Fractional CTO for
 ### [hermes-dashboard-matrix-plus](https://github.com/gumbyender/hermes-dashboard-matrix-plus)
 > Web dashboard for managing Hermes.
 
+### [inkmp3](https://github.com/gumbyender/inkmp3)
+> TUI MP3 player with local-file support.
+
+### [rcp-fixture-detector](https://github.com/gumbyender/rcp-fixture-detector)
+> OCR/ML pipeline for detecting ceiling fixtures from reflected ceiling plan PDFs.
+
+### [mcp-tailscale](https://github.com/gumbyender/mcp-tailscale)
+> MCP server wrapping Tailscale CLI for AI agent networking.
+
+### [Agentic-Email-Management](https://github.com/gumbyender/Agentic-Email-Management)
+> Agentic Gmail triage, cleanup, and automation.
+
 ---
 
-## 🏆 Achievements
+## Experience
 
-![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) ![Starstruck x2](https://github.githubassets.com/assets/starstruck-default-b6610abad518.png) ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) ![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)
+- Founder/CTO-level work through **Veanox**
+- Director - Special Projects, **SKYX Platforms**
+- Executive/tech leadership track with startup and public-company operating experience
+- Long-tenure background in **big data, OTT, IoT, AI**
 
 ---
 
-## 🔗 Links
+## Links
 
-- 🌐 [veanox.com](https://www.veanox.com)
+- 🌐 [veanox.com](https://veanox.com)
 - 🐦 [@ShaneRobinett](https://x.com/ShaneRobinett)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shanerobinett/)
+- 💼 [LinkedIn](https://linkedin.com/in/shanerobinett)
 - 📍 The Swamps of Central Florida

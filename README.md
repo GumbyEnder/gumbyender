@@ -16,13 +16,14 @@ Builder of **game backends, admin tools, AI/IoT/ML systems**. Fractional CTO for
 
 ## 🧰 Tech Stack
 
-**Languages:** TypeScript, Python, Rust, Bash, Swift, Go  
+**Languages:** TypeScript, Python, Rust, C, C++, C#  
 **Frontend:** React, Next.js, React Native, Vite, Tailwind, Expo  
 **Backend:** Supabase, FastAPI, Node, Deno, PostgreSQL  
 **Infra:** Linux, Docker, systemd, s6-overlay, Cloudflare, Vercel, Railway  
 **AI/Agents:** Hermes, OpenAI/xAI/Anthropic APIs, RAG, Gradio, local LLM rigs  
 **Data:** SQLite, Parquet, NDJSON, Arrow, Pandas  
-**Tools:** git, gh CLI, Obsidian, tmux, neovim, Ollama, llama.cpp
+**Tools:** git, gh CLI, Obsidian, tmux, neovim, Ollama, llama.cpp  
+**Game Engines:** Godot, Unity, Unreal
 
 ---
 
